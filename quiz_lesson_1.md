@@ -1,5 +1,5 @@
 1. Why do they call it a relational database?
-A: Because tables can be associated to each other.
+A: Because tables can be associated to each other
 
 2. What is SQL?
 A. Structured Query Language is a language used to query and manage the database.
